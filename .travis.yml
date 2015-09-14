@@ -32,3 +32,7 @@ script:
     - npm run lint-all
     - ember ember-cli-jsdoc
     - ember try $EMBER_TRY_SCENARIO test
+
+addons:
+    code_climate:
+        repo_token: c0d01e110826f32297f15e6a6aa6de21cdc527a7de137ec058ddc0b7c6aef62b
