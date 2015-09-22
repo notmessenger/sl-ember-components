@@ -2,7 +2,7 @@
   "files": {
     "included": [
       "app/**/*.js",
-      "addons/**/*.js",
+      "addon/**/*.js",
       "blueprints/**/*.js"
     ],
     "excluded": [
