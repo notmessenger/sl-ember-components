@@ -7,8 +7,9 @@
     ],
     "excluded": [
       "addon/templates/**/*.hbs",
+      "app/styles/*",
       "app/styles/**/*",
-      "app/templates/**/*.hbs"
+      "app/templates/*.hbs"
     ]
   }
 }
