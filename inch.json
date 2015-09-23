@@ -2,8 +2,8 @@
   "files": {
     "included": [
       "app/**/*.js",
-      "addon/components/sl-chart.js",
       "addon/components/sl-panel.js",
+      "addon/components/sl-chart.js",
       "addon/mixins/sl-input-based.js",
       "blueprints/**/*.js"
     ],
